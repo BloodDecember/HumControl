@@ -1,0 +1,9 @@
+E:\C#\HumControl\HumControl\bin\Debug\HumControl.exe.config
+E:\C#\HumControl\HumControl\bin\Debug\HumControl.exe
+E:\C#\HumControl\HumControl\bin\Debug\HumControl.pdb
+E:\C#\HumControl\HumControl\obj\Debug\HumControl.csprojResolveAssemblyReference.cache
+E:\C#\HumControl\HumControl\obj\Debug\HumControl.Form1.resources
+E:\C#\HumControl\HumControl\obj\Debug\HumControl.Properties.Resources.resources
+E:\C#\HumControl\HumControl\obj\Debug\HumControl.csproj.GenerateResource.Cache
+E:\C#\HumControl\HumControl\obj\Debug\HumControl.exe
+E:\C#\HumControl\HumControl\obj\Debug\HumControl.pdb
